@@ -1,0 +1,11 @@
+/* asterisco é para pegar todos elementos*/
+* {  
+    margin: 0; /*margens*/
+    padding: 0; /*espaçamento interno*/
+    box-sizing: border-box; /*mexer com largura dos elementos*/
+}
+
+/*ul é tag de lista*/
+ul { 
+    list-style: none; /*retirar as ''bolinhas'' de lista*/
+}
